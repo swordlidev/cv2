@@ -1,5 +1,4 @@
 ## 李剑
-[jpg](http://cs.njust.edu.cn/_upload/article/images/34/6e/668d3e1c43b0a97d312b193af7d1/dce75727-b229-4de3-8dfb-5582eac72d15.jpg)
 
 ## 基本信息                
 * 出生日期：1994/11/14                  
