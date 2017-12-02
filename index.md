@@ -37,7 +37,7 @@
 1. 	**` `2017.09` `[DIDI-UDACITY无人驾驶](http://research.xiaojukeji.com/)` `冠军` `奖金10万美金 
 
      本次大赛赛题是无人驾驶，要求参赛者找到通过摄像头和 LIDAR 数据检测道路上的障碍物的最好方法。要求参赛者实时处理 LIDAR、RADAR及摄像头原始数据，输出障碍物位置、移除噪音和环境错误检测。最终的代码方案需要基于ROS 架构（Ubuntu 14.04, ROS  Indigo）、并能够在搭载 I7 和 Titan  X的 平台上以至少 10Hz 运行。我们提出了一种基于多传感器由粗到细的障碍物检测框架（multi-sensor coarse-to-fine detection  framework）。在该框架中，对于相机图像，采用深度学习算法（YOLO），对于点云数据，采用精心设计的聚类和识别算法。该框架能在达到最高的检测指标（IOU）的同时也能够有很快的检测速度，最终我们的成绩在两轮leadboard上都排名第一，现场真车测试速度达到20FPS。 
-     [学院新闻报道](http://cs.njust.edu.cn/49/27/c1817a149799/page.htm) , [金陵晚报](http://jlwb.njnews.cn/html/2017-09/22/content_110945.htm), [知乎专栏](https://zhuanlan.zhihu.com/p/29907537)
+*      [学院新闻报道](http://cs.njust.edu.cn/49/27/c1817a149799/page.htm) , [金陵晚报](http://jlwb.njnews.cn/html/2017-09/22/content_110945.htm), [知乎专栏](https://zhuanlan.zhihu.com/p/29907537)
 
 ## 个人荣誉
 *    2017.11`  `南京理工大学校长奖章；
