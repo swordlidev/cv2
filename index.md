@@ -8,7 +8,7 @@
 * Email：lijiannuist@gmail.com 
 * 地址：江苏省南京市孝陵卫街200号 
 * 邮编：210094
-* 主页  [Github.Homepage](https://github.com/lijiannuist)  [博客](https://weibo.com/3012693523/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
+* 主页  [Github.Homepage](https://github.com/lijiannuist)  [微博](https://weibo.com/3012693523/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
 * 2016.09- 南京理工大学  计算机学院 导师：[杨健](https://baike.baidu.com/item/%E6%9D%A8%E5%81%A5/9376288?fr=aladdin), 钱建军 
 * 研究方向：目标检测，深度学习，计算机视觉，自动驾驶
 * 2012.09-2016.06 南京信息工程大学  数学与统计学院  信息与计算科学 GPA: 88.35 TOP：4/71    
