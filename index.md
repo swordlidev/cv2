@@ -4,8 +4,7 @@
 * 籍贯：江苏 盐城                
 * 政治面貌：党员     
 * 手机：147 5160 0355
-* Email：lijiannuist@gmail.com 
-* 地址：江苏省南京市孝陵卫街200号 210094
+* Email：lijiannuist@gmail.com;  1203807895@qq.com
 * 主页 [Resume](https://docs.google.com/document/d/1ddRU1buDke8axs8mxEqLi9sdZ4g2QyzMW3uAhkqwaV4/edit?usp=sharing)    [Github](https://github.com/lijiannuist)   [微博](https://weibo.com/3012693523/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)  [知乎](https://www.zhihu.com/people/lijiannuist/activities)
 
 ### 教育经历
