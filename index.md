@@ -4,8 +4,8 @@
 * 籍贯：江苏 盐城                
 * 政治面貌：党员     
 * 手机：147 5160 0355
-* Email：lijiannuist@gmail.com;  1203807895@qq.com
-* 主页 [Resume](https://docs.google.com/document/d/1ddRU1buDke8axs8mxEqLi9sdZ4g2QyzMW3uAhkqwaV4/edit?usp=sharing)    [Github](https://github.com/lijiannuist)   [微博](https://weibo.com/3012693523/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)  [知乎](https://www.zhihu.com/people/lijiannuist/activities)
+* Email：lijiannuist@gmail.com;   1203807895@qq.com
+* 主页:  [Resume](https://docs.google.com/document/d/1ddRU1buDke8axs8mxEqLi9sdZ4g2QyzMW3uAhkqwaV4/edit?usp=sharing)    [Github](https://github.com/lijiannuist)   [微博](https://weibo.com/3012693523/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)  [知乎](https://www.zhihu.com/people/lijiannuist/activities)
 
 ### 教育经历
 
@@ -21,7 +21,7 @@
 *   三年以上计算视觉研究经历，有数据挖掘经验。
 
 ###  实习经历
-* 2018.07-  人脸检测    腾讯优图实验室人脸组    mentor：王亚彪  
+* 2018.07-      人脸检测    腾讯优图实验室人脸组    mentor：王亚彪  
 
     从事人脸检测方向的研究，主要探索one-stage检查器用于人脸检测，期间复现过S3FD，pyramidbox，refinedet，retinanet，FPN，Focalloss等前沿工作。基于SSD加入前沿的方法如：采用resnet101作为backbone，使用FPN对特征进一步加工，引入context信息，使用mio抑制背景类，使用head，body弱监督信息，更加丰富的数据采样方式，调节anchor的尺度等策略。目前在WIDERFace人脸检测数据集上面的最新得分：easy：0.961，medium：0.953，hard：0.901.排名第二。
 
