@@ -5,11 +5,11 @@
 * 政治面貌：党员     
 * 手机：147 5160 0355
 * Email：lijiannuist@gmail.com;   1203807895@qq.com
-* 主页:  [Resume](https://docs.google.com/document/d/1ddRU1buDke8axs8mxEqLi9sdZ4g2QyzMW3uAhkqwaV4/edit?usp=sharing)    [Github](https://github.com/lijiannuist)   [微博](https://weibo.com/3012693523/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)  [知乎](https://www.zhihu.com/people/lijiannuist/activities)
+* 主页:  [Resume](https://docs.google.com/document/d/1ddRU1buDke8axs8mxEqLi9sdZ4g2QyzMW3uAhkqwaV4/edit?usp=sharing),    [Github](https://github.com/lijiannuist),   [微博](https://weibo.com/3012693523/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1) , [知乎](https://www.zhihu.com/people/lijiannuist/activities)
 
 ### 教育经历
 
-*   2016.09-        南京理工大学      计算机科学与工程学院 导师：[杨健](https://baike.baidu.com/item/%E6%9D%A8%E5%81%A5/9376288?fr=aladdin), 钱建军 
+*   2016.09-        南京理工大学      计算机科学与工程学院 导师：[杨健](https://baike.baidu.com/item/%E6%9D%A8%E5%81%A5/9376288?fr=aladdin), 钱建军, [PCALab](http://www.patternrecognition.cn/)
 *   研究方向：目标检测，深度学习，计算机视觉，自动驾驶
 *   2012.09-2016.06 南京信息工程大学  数学与统计学院  信息与计算科学 GPA: 88.35 TOP：4/71    
 *   专业课程：数学分析、高等代数、概率论与数理统计、数据结构、数值分析
@@ -21,7 +21,7 @@
 *   三年以上计算视觉研究经历，有数据挖掘经验。
 
 ###  实习经历
-* 2018.07-      人脸检测    腾讯优图实验室人脸组    mentor：王亚彪  
+* 2018.07-      人脸检测    [腾讯优图实验室人脸组](https://open.youtu.qq.com/#/open)    mentor：王亚彪  
 
     从事人脸检测方向的研究，主要探索one-stage检查器用于人脸检测，期间复现过S3FD，pyramidbox，refinedet，retinanet，FPN，Focalloss等前沿工作。基于SSD加入前沿的方法如：采用resnet101作为backbone，使用FPN对特征进一步加工，引入context信息，使用mio抑制背景类，使用head，body弱监督信息，更加丰富的数据采样方式，调节anchor的尺度等策略。目前在WIDERFace人脸检测数据集上面的最新得分：easy：0.961，medium：0.953，hard：0.901.排名第二。
 
@@ -43,11 +43,11 @@
 
     本人于2015.7月参加北京大学计算所夏令营，通过北大推免预选拔。 9月本校推免失败，故于2016.1月起在北大计算所实习。实习内容涉及手写汉字二值化、分割、以及 OCR，使用opencv、深度学习框架 caffe 开发，基于CASIA库训练的alexnet_model可参考：[HCCR](http://pan.baidu.com/s/1qYCbfqs)。
 
-* 2014-2015    医学图像分割    南京信息工程大学    数学统计学院    图像处理实验室    mentor：陈允杰 
+* 2014-2015    医学图像分割    南京信息工程大学    数学统计学院    图像处理实验室    导师：陈允杰 
 
     该项目是本人在数统院图像处理实验室完成。主要研究了基于统计的图像分割算法（K-means、FCM、GMM），并提出将非局部信息融入现有的模型当中，提出一种新的FCM方法：Non-local-based spatially constrained hierarchical fuzzy C-means（SCI）。同时，独立开发一套基于vtk的脑核磁共振图像三维分割系统。
 
-* 2013-2015    自动指纹识别    南京信息工程大学    计算机学院    指纹组    mentor：梅园
+* 2013-2015    自动指纹识别    南京信息工程大学    计算机学院    指纹组    导师：梅园
 
     该指纹组由四位本科生组成，由计算机学院老师带队，本人负责指纹方向场的建模和计算（PDE、DCT等），提出一种基于改进的偏微分模型的指纹方向场计算方法并申请获得专利，同时对现有的算法进行改进，提出一种谱方法计算指纹方向场。除此以外，也曾研究以指纹方向场作为指纹特征对其进行分类。指纹组也开发出一套基于C++的自动指纹识别系统。在该系统中，本人负责实现指纹方向场的代码。
 
