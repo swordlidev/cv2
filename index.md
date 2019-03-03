@@ -54,7 +54,7 @@
 ### 竞赛经历
 * 2018.12    [AIChallenger无人驾驶视觉感知赛](https://challenger.ai/competition/adp2018)    亚军    奖金4万人民币
 
-    本次大赛赛题是无人驾驶视觉感知，共有两个任务分别是道路中的物体检测和道路分割，比赛数据使用的是BDD100K，在检测模型中我们使用了cascade方式细化检测结果，最终Amadeus队伍获得亚军。[官方获奖名单](https://challenger.ai/news/ai_challenger_2018_winners) 
+    本次大赛赛题是无人驾驶视觉感知，共有两个任务分别是道路中的物体检测和道路分割，比赛数据使用的是BDD100K，在检测任务中我们使用了cascade、Multi-head Ensemble方式优化模型，在分割任务中使用Res50+PSPNet作为基准模型进一步优化模型速度。在决赛C榜上，我们的成绩是检测mAP23.7，分割mIOU77.5，模型的FPS为16.0，其中检测任务的融合模型在BDD100K数据验证集上取得36.6的最高分。最终Amadeus队伍获得亚军。[官方获奖名单](https://challenger.ai/news/ai_challenger_2018_winners) 
     
 * 2017.09    [Didi-Udacity无人驾驶挑战赛](http://research.xiaojukeji.com/)    冠军    奖金10万美金
 
@@ -84,8 +84,8 @@
 *    Li Jian, Wang Yabiao, Wang Changan, Tai Ying, Qian Jianjun, Yang Jian, et al. "DSFD: Dual Shot Face Detector." IEEE Computer vision and pattern recognition (CVPR), 2019.  
 *    Li Jian, Qian Jianjun, and Yang Jian. "Object detection via feature fusion based single network." IEEE International Conference on Image Processing (ICIP).2017.
 *    Li Jian, Qian Jianjun, and Zheng Yuhui. "Ensemble R-FCN for Object Detection." Advances in Computer Science and Ubiquitous Computing. Springer, Singapore, 2017. 400-406.
-*    Li Dejian, Li Jian, Nie B, et al. "Deconvolution single shot multibox detector for supermarket commodity detection and classification[C]." Ninth International Conference on Digital Image Processing (ICDIP 2017). International Society for Optics and Photonics, 2017, 10420: 104202R.
-*    Chen Yunjie, Li Jian et al. "Non-local-based spatially constrained hierarchical fuzzy C-means method for brain magnetic resonance imaging segmentation." IET Image Processing 10.11 (2016): 865-876.(SCI)
+*    Li Dejian, Li Jian, Nie B, et al. "Deconvolution single shot multibox detector for supermarket commodity detection and classification[C]." Ninth International Conference on Digital Image Processing (ICDIP). 2017, 10420: 104202R.
+*    Chen Yunjie, Li Jian et al. "Non-local-based spatially constrained hierarchical fuzzy C-means method for brain magnetic resonance imaging segmentation." IET Image Processing 10.11 (2016 SCI): 865-876.
 *    一种基于改进的偏微分模型的指纹方向场计算方法 CN201510102734.5 梅园，李剑；
 *    一种鲁棒的工业电表数字识别方法 CN201611031147.2 李剑，钱建军，杨健；
 
