@@ -20,10 +20,10 @@
 * 	英语CET-6（527），能进行日常简单交流，可熟练阅读英文资料。
 *   三年以上计算视觉研究经历，有数据挖掘经验。
 
-###  实习经历
+###  工作经历历
 * 2018.07-      人脸检测    [腾讯优图实验室人脸组](https://open.youtu.qq.com/#/open)    mentor：王亚彪  
 
-    从事人脸检测方向的研究，主要探索one-stage检查器用于人脸检测，期间复现过S3FD，pyramidbox，refinedet，retinanet，FPN，Focalloss等前沿工作。基于SSD加入前沿的方法如：采用resnet101作为backbone，使用FPN对特征进一步加工，引入context信息，使用mio抑制背景类，使用head，body弱监督信息，更加丰富的数据采样方式，调节anchor的尺度等策略。目前在WIDERFace人脸检测数据集上面的最新得分：easy：0.961，medium：0.953，hard：0.901.排名第二。
+    从事人脸检测方向的研究，主要探索one-stage检查器用于人脸检测，期间复现过S3FD，pyramidbox，refinedet，retinanet，FPN，Focalloss等前沿工作。基于SSD加入前沿的方法如：采用resnet101作为backbone，使用FPN对特征进一步加工，引入context信息，使用mio抑制背景类，使用head，body弱监督信息，更加丰富的数据采样方式，调节anchor的尺度等策略。提出的DSFD工作在WIDERFace人脸检测数据集上面的得分：easy：0.966，medium：0.957，hard：0.904.取得STOA，相关工作发表在2019CVPR上。
 
 * 2017.10-2018.03  多标签图像分类  腾讯微信模式识别中心  mentor：李岩  
 
@@ -52,6 +52,10 @@
     该指纹组由四位本科生组成，由计算机学院老师带队，本人负责指纹方向场的建模和计算（PDE、DCT等），提出一种基于改进的偏微分模型的指纹方向场计算方法并申请获得专利，同时对现有的算法进行改进，提出一种谱方法计算指纹方向场。除此以外，也曾研究以指纹方向场作为指纹特征对其进行分类。指纹组也开发出一套基于C++的自动指纹识别系统。在该系统中，本人负责实现指纹方向场的代码。
 
 ### 竞赛经历
+* 2018.12    [AIChallenger无人驾驶视觉感知赛](https://challenger.ai/competition/adp2018)    亚军    奖金4万人民币
+
+    本次大赛赛题是无人驾驶视觉感知，共有两个任务分别是道路中的物体检测和道路分割，比赛数据使用的是BDD100K，在检测模型中我们使用了cascade方式细化检测结果，最终Amadeus队伍获得亚军。[官方获奖名单](https://challenger.ai/news/ai_challenger_2018_winners) 
+    
 * 2017.09    [Didi-Udacity无人驾驶挑战赛](http://research.xiaojukeji.com/)    冠军    奖金10万美金
 
     本次大赛赛题是无人驾驶，要求参赛者找到通过摄像头和 LIDAR 数据检测道路上的障碍物的最好方法。要求参赛者实时处理 LIDAR、RADAR及摄像头原始数据，输出障碍物位置、移除噪音和环境错误检测。最终的代码方案需要基于ROS 架构（Ubuntu 14.04, ROS  Indigo）、并能够在搭载 I7 和 Titan  X的 平台上以至少 10Hz 运行。我们提出了一种基于多传感器由粗到细的障碍物检测框架（multi-sensor coarse-to-fine detection  framework）。在该框架中，对于相机图像，采用深度学习算法（YOLO），对于点云数据，采用精心设计的聚类和识别算法。该框架能在达到最高的检测指标（IOU）的同时也能够有很快的检测速度，最终我们的成绩在两轮leadboard上都排名第一，现场真车测试速度达到20FPS。[学院新闻报道](http://cs.njust.edu.cn/49/27/c1817a149799/page.htm) , [新浪教育](http://edu.sina.com.cn/l/2017-09-22/doc-ifymfcih2432055.shtml), [知乎专栏](https://zhuanlan.zhihu.com/p/29907537)
@@ -76,10 +80,12 @@
 * 	2015.05    江苏省三好学生；
 * 	2012-2015  南京信息工程大学校三好学生、校优秀共青团员、校优秀学干、校学生会优秀部长；
 
-### 专利&论文
-*    Li, Jian, Jianjun Qian, and Jian Yang. "Object detection via feature fusion based single network." Image Processing (ICIP), 2017 IEEE International Conference on. IEEE, 2017.
-*    Li, Jian, Jianjun Qian, and Yuhui Zheng. "Ensemble R-FCN for Object Detection." Advances in Computer Science and Ubiquitous Computing. Springer, Singapore, 2017. 400-406.
-*    Chen, Yunjie, Li, Jian et al. "Non-local-based spatially constrained hierarchical fuzzy C-means method for brain magnetic resonance imaging segmentation." IET Image Processing 10.11 (2016): 865-876.
+### 发表著作
+*    Li Jian, Wang Yabiao, Wang Changan, Tai Ying, Qian Jianjun, Yang Jian, et al. "DSFD: Dual Shot Face Detector." IEEE Computer vision and pattern recognition (CVPR), 2019.  
+*    Li Jian, Qian Jianjun, and Yang Jian. "Object detection via feature fusion based single network." IEEE International Conference on Image Processing (ICIP).2017.
+*    Li Jian, Qian Jianjun, and Zheng Yuhui. "Ensemble R-FCN for Object Detection." Advances in Computer Science and Ubiquitous Computing. Springer, Singapore, 2017. 400-406.
+*    Li Dejian, Li Jian, Nie B, et al. "Deconvolution single shot multibox detector for supermarket commodity detection and classification[C]." Ninth International Conference on Digital Image Processing (ICDIP 2017). International Society for Optics and Photonics, 2017, 10420: 104202R.
+*    Chen Yunjie, Li Jian et al. "Non-local-based spatially constrained hierarchical fuzzy C-means method for brain magnetic resonance imaging segmentation." IET Image Processing 10.11 (2016): 865-876.(SCI)
 *    一种基于改进的偏微分模型的指纹方向场计算方法 CN201510102734.5 梅园，李剑；
 *    一种鲁棒的工业电表数字识别方法 CN201611031147.2 李剑，钱建军，杨健；
 
