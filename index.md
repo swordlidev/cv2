@@ -20,7 +20,7 @@
 * 	英语CET-6（527），能进行日常简单交流，可熟练阅读英文资料。
 *   三年以上计算视觉研究经历，有数据挖掘经验。
 
-###  工作经历历
+###  工作经历
 * 2018.07-      人脸检测    [腾讯优图实验室人脸组](https://open.youtu.qq.com/#/open)    mentor：王亚彪  
 
     从事人脸检测方向的研究，主要探索one-stage检查器用于人脸检测，期间复现过S3FD，pyramidbox，refinedet，retinanet，FPN，Focalloss等前沿工作。基于SSD加入前沿的方法如：采用resnet101作为backbone，使用FPN对特征进一步加工，引入context信息，使用mio抑制背景类，使用head，body弱监督信息，更加丰富的数据采样方式，调节anchor的尺度等策略。提出的DSFD工作在WIDERFace人脸检测数据集上面的得分：easy：0.966，medium：0.957，hard：0.904.取得STOA，相关工作发表在2019CVPR上。
