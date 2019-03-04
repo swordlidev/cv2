@@ -2,6 +2,7 @@
 <p align='center'>
   <img src='https://github.com/lijiannuist/lijiannuist.github.com/blob/master/images/lijian.jpg' width='240'/>
 </p>
+
 ### 基本信息                
 * 出生日期：1994/11/14                  
 * 籍贯：江苏 盐城                
