@@ -4,14 +4,14 @@
 </p>
 
 ### 基本信息    
-```
+
 * 出生日期：1994/11/14                  
 * 籍贯：江苏 盐城                
 * 政治面貌：党员     
 * 手机：147 5160 0355
 * Email：lijiannuist@gmail.com;   1203807895@qq.com
 * 主页:  [Resume](https://docs.google.com/document/d/1ddRU1buDke8axs8mxEqLi9sdZ4g2QyzMW3uAhkqwaV4/edit?usp=sharing),    [Github](https://github.com/lijiannuist),   [微博](https://weibo.com/3012693523/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1) , [知乎](https://www.zhihu.com/people/lijiannuist/activities)
-```
+
 ### 教育经历
 
 *   2016.09-        南京理工大学      计算机科学与工程学院 导师：[杨健](https://baike.baidu.com/item/%E6%9D%A8%E5%81%A5/9376288?fr=aladdin), 钱建军, [PCALab](http://www.patternrecognition.cn/)
@@ -27,21 +27,21 @@
 
 ###  工作经历
 * 2018.07-      人脸检测    [腾讯优图实验室人脸组](https://open.youtu.qq.com/#/open)    mentor：王亚彪  
-
+```
     从事人脸检测方向的研究，主要探索one-stage检查器用于人脸检测，期间复现过S3FD，pyramidbox，refinedet，retinanet，FPN，Focalloss等前沿工作。基于SSD加入前沿的方法如：采用resnet101作为backbone，使用FPN对特征进一步加工，引入context信息，使用mio抑制背景类，使用head，body弱监督信息，更加丰富的数据采样方式，调节anchor的尺度等策略。提出的DSFD工作在WIDERFace人脸检测数据集上面的得分：easy：0.966，medium：0.957，hard：0.904.取得STOA，相关工作发表在2019CVPR上。
-
+```
 * 2017.10-2018.03  多标签图像分类  腾讯微信模式识别中心  mentor：李岩  
-
+```
     此项目是[腾讯犀牛鸟精英研究生计划](http://cs.njust.edu.cn/43/55/c1817a148309/page.htm)，基于微信朋友圈图像数据构建一个大规模多标签图像数据集，该过程涉及挖掘朋友圈数据的文本信息，根据词频选取5000个特色关键字例如“小黄车”作为标签，以此关键字搜索图片并通过kmeans聚类后进行图片清理，每个关键字选取1000张图片构建原始数据集。用该数据集基于pytorch训练一个resnet50多标签图像分类引擎。该模型可对微信公众号及朋友圈图像打上多个标签，该标签用于用户画像并进一步用于音乐推荐系统的特征构成。
- 
+```
 * 2017.07-2017.09    车辆轨迹预测    图森    mentor：王乃岩 
-
+```
     在该自动驾驶初创公司实习期间，主要研究对自动驾驶车辆的周边行车进行轨迹预测以此来避免碰撞。主要基于点云数据估算后的位置信息，使用了kalman filter来对周边车辆进行轨迹跟踪, 同时也探索用xgboost , lstm 等技术对下一个时刻的车辆位置进行估计。同时建立预测的评价指标评估预测结果。
-
+```
 * 2016.06-2016.09    基于深度学习的目标检测    虹软    mentor：林建华 
-
+```
     在虹软实习期间，学习主流深度学习检测算法（FasterRcnn，YOLO，SSD），借鉴SqueezeNet修改SSD网络的backbone，以此提高检测速度，减少模型参数。同时将caffe训练出来的模型解析出参数，用纯C++写的前向网络进行部署，提供基于手机端的SDK。
-     
+```     
 ###  在校项目
 
 * 2016.1-2016.6    中文手写字体检测与识别    北京大学    计算机研究所    字形计算实验室    导师：连宙辉
